@@ -1,0 +1,178 @@
+[
+  {
+    "name": "Wireless Earbuds",
+    "description": "High-quality Bluetooth earbuds with noise-cancellation technology and a long-lasting battery."
+  },
+  {
+    "name": "Smartphone Stand",
+    "description": "Sturdy and adjustable stand for smartphones, perfect for watching videos or video calls."
+  },
+  {
+    "name": "Fitness Tracker",
+    "description": "Advanced fitness tracker to monitor your heart rate, steps, and sleep quality."
+  },
+  {
+    "name": "Reusable Water Bottle",
+    "description": "Eco-friendly, leak-proof, stainless steel water bottle with vacuum insulation technology."
+  },
+  {
+    "name": "LED Desk Lamp",
+    "description": "Adjustable, energy-efficient LED desk lamp with multiple brightness settings and USB charging port."
+  },
+  {
+    "name": "Portable Charger",
+    "description": "High-capacity power bank with fast-charging technology, compatible with most devices."
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "description": "Compact, waterproof Bluetooth speaker with powerful sound and long battery life."
+  },
+  {
+    "name": "Memory Foam Pillow",
+    "description": "Ergonomic memory foam pillow that supports your neck and head for a comfortable sleep."
+  },
+  {
+    "name": "HDMI Cable",
+    "description": "High-speed HDMI cable for optimal video and audio quality when connecting devices."
+  },
+  {
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI settings and long battery life."
+  },
+  {
+    "name": "USB Flash Drive",
+    "description": "High-speed, durable USB flash drive with a sleek design and large storage capacity."
+  },
+  {
+    "name": "Mechanical Keyboard",
+    "description": "High-quality mechanical keyboard with customizable RGB backlight and responsive keys."
+  },
+  {
+    "name": "Noise-Cancelling Headphones",
+    "description": "Over-ear headphones with advanced noise-cancellation technology and comfortable design."
+  },
+  {
+    "name": "Smart Thermostat",
+    "description": "Energy-saving smart thermostat that allows remote temperature control and scheduling."
+  },
+  {
+    "name": "Robot Vacuum",
+    "description": "Efficient robot vacuum cleaner with smart navigation, app control, and multiple cleaning modes."
+  },
+  {
+    "name": "Air Purifier",
+    "description": "High-performance air purifier with HEPA filter to eliminate allergens, dust, and odors."
+  },
+  {
+    "name": "Instant Pot",
+    "description": "Versatile multi-cooker with pressure cooker, slow cooker, and rice cooker functions."
+  },
+  {
+    "name": "4K Smart TV",
+    "description": "Ultra-high-definition smart TV with built-in streaming apps and voice control."
+  },
+  {
+    "name": "Gaming Console",
+    "description": "Next-generation gaming console with stunning graphics, fast load times, and an expansive game library."
+  },
+  {
+    "name": "Coffee Maker",
+    "description": "Programmable coffee maker with automatic shut-off and brew strength control."
+  },
+  {
+    "name": "E-Reader",
+    "description": "Lightweight e-reader with a high-resolution display, adjustable brightness, and long battery life."
+  },
+  {
+    "name": "Laptop Cooling Pad",
+    "description": "Efficient cooling pad with multiple fans and adjustable height to keep your laptop cool."
+  },
+  {
+    "name": "Electric Toothbrush",
+    "description": "Advanced electric toothbrush with multiple cleaning modes and a built-in timer for optimal oral care."
+  },
+  {
+    "name": "Smart Lock",
+    "description": "Secure smart lock with keyless entry, remote access, and customizable access codes."
+  },
+  {
+    "name": "Wireless Charger",
+    "description": "Fast and convenient wireless charging pad, compatible with Qi-enabled devices."
+  },
+  {
+    "name": "Action Camera",
+    "description": "Compact, durable action camera with 4K video recording and image stabilization."
+  },
+  {
+    "name": "Bluetooth Keyboard",
+    "description": "Slim, portable Bluetooth keyboard for easy typing on smartphones, tablets, or laptops."
+  },
+  {
+    "name": "Aromatherapy Diffuser",
+    "description": "Ultrasonic essential oil diffuser with adjustable mist settings and auto shut-off feature."
+  },
+  {
+    "name": "Microwave Oven",
+    "description": "Efficient countertop microwave oven with multiple power levels and pre-programmed settings."
+  },
+  {
+    "name": "Weighted Blanket",
+    "description": "High-quality weighted blanket for improved sleep and relaxation, available in various weights and sizes."
+  },
+  {
+    "name": "Smart Plug",
+    "description": "WiFi-enabled smart plug that allows remote control and scheduling of connected devices."
+  },
+  {
+    "name": "Kitchen Knife Set",
+    "description": "Durable, stainless steel kitchen knife set with ergonomic handles and a storage block."
+  },
+  {
+    "name": "Yoga Mat",
+    "description": "Eco-friendly, non-slip yoga mat with extra cushioning for comfort and support."
+  },
+  {
+    "name": "Portable Blender",
+    "description": "Compact, USB-rechargeable blender for making smoothies and shakes on the go."
+  },
+  {
+    "name": "Bluetooth Headset",
+    "description": "Lightweight, comfortable Bluetooth headset with clear audio and noise reduction technology."
+  },
+  {
+    "name": "Slow Cooker",
+    "description": "Energy-efficient slow cooker with multiple temperature settings and a large cooking capacity."
+  },
+  {
+    "name": "External Hard Drive",
+    "description": "Portable external hard drive with fast transfer speeds and large storage capacity."
+  },
+  {
+    "name": "Luggage Set",
+    "description": "Durable, lightweight luggage set with spinner wheels and multiple compartments for organized packing."
+  },
+  {
+    "name": "Noise Machine",
+    "description": "Compact white noise machine with multiple sound options to improve sleep quality and relaxation."
+  },
+  {
+    "name": "Makeup Organizer",
+    "description": "Clear acrylic makeup organizer with multiple compartments and drawers for easy organization."
+  },
+  {
+    "name": "Electric Kettle",
+    "description": "Fast-heating electric kettle with auto shut-off and temperature control for various beverages."
+  },
+  {
+    "name": "Webcam",
+    "description": "High-definition webcam with autofocus and built-in microphone for clear video calls."
+  },
+  {
+    "name": "Digital Photo Frame",
+    "description": "High-resolution digital photo frame with slideshow feature and customizable display options."
+  },
+  {
+    "name": "Fruit Infuser Water Bottle",
+    "description": "Leak-proof water bottle with built-in fruit infuser for delicious, naturally flavored water."
+  }
+]
